@@ -9,7 +9,7 @@
     },
     "destinations" : [
         {
-            "locations" : "Saint Lucia",
+            "location" : "Saint Lucia",
             "arrivalDate" : "2026-09-15",
             "departureDate" : "2026-09-30",
             "activities" : [ 
